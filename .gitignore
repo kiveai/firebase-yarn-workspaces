@@ -26,7 +26,6 @@ typings/
 .DS_Store
 **/*.tgz
 **/*/package-lock.json
-dist
 tmp
 services/eu-west-db-pgbouncer/userlist.txt
 **/*.env
